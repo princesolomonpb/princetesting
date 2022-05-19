@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="test suite" >
+<test name="test case">
+
+<classes>
+<class name="testNG.ParallelTestingExample"></class>
+</classes>
+</test>
+</suite>
+
+
+
+<!-- <class name="testNG.DependenciesManagement"></class>
+<class name="testNG.Priority"></class>
+<class name="testNG.SampleTestCase"></class> -->
